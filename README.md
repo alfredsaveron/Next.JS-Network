@@ -1,4 +1,4 @@
-# Kaguwo's Network but originally designed in Next.JS version. 
+# 📝 Kaguwo's Network but originally designed in Next.JS version. 📝
 
 <img src="https://kaguwo.is-inside.me/vZZZdPgJ.png" alt="Next.JS Version of the Network." style="border-radius: 16px; weight: 700px; height: 700px;" />
 
@@ -12,6 +12,8 @@
 
 ### Reach out my social medias for getting support to the templates!
 
-<img src="" alt="Twitter" style="weight: 100px; height: 100px;" /> 
+* <div style="text-align:left; text-decoration:none; "><a href="https://twitter.com/kaguwomin"><img  src="https://kaguwo.is-inside.me/7sXmyvh3.png" height="auto"  width="20" style="text-decoration:none; "> <span style="font-size:18px; text-decoration:none; color:#7289da; ">@kaguwomin</span></a></div>
 
-(i'm gonna edit these asap.)
+* <div style="text-align:left; text-decoration:none; "><a href="https://www.instagram.com/kaguwomin/"><img  src="https://kaguwo.is-inside.me/jTjdRTua.png" height="auto"  width="20" style="text-decoration:none; "> <span style="font-size:18px; text-decoration:none; color:#7289da; ">@kaguwomin</span></a></div>
+
+* <div style="text-align:left; text-decoration:none; "><a href="https://kaguwo.com/discord"><img  src="https://kaguwo.is-inside.me/7S6uQceQ.png" height="auto"  width="20" style="text-decoration:none; "> <span style="font-size:18px; text-decoration:none; color:#7289da; ">Hey! Come over here for a coffee-chat!</span></a></div>

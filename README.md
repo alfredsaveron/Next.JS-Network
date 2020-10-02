@@ -1,4 +1,4 @@
-# 📝 Kaguwo's Network but originally designed in Next.JS version. 📝
+# 📝 Kaguwo's Network but originally designed in Next.JS version. 
 
 <img src="https://kaguwo.is-inside.me/vZZZdPgJ.png" alt="Next.JS Version of the Network." style="border-radius: 16px; weight: 700px; height: 700px;" />
 

@@ -1,0 +1,98 @@
+main {
+  font-family: 'SF Pro Display', sans-serif;
+  font-size: 11px;
+}
+
+.global {
+  margin: 0;
+  background-color: var(--background);
+  color: var(--color);
+}
+
+:root {
+  --background: white;
+  --color: #2b2b2b;
+}
+
+@media (prefers-color-scheme: dark) {s
+  :root {
+    --background: #2b2b2b;
+    --color: white;
+  }
+}
+
+.header {
+  text-align: center;
+  font-size: 16px;
+  margin: 72px 0;
+}
+
+.header-title {
+  font-size: 72px;
+  margin: 12px 0 18px 0;
+}
+
+.paragraph-title {
+  margin-top: 12px;
+}
+
+.social-media {
+  margin-top: 58px;
+  font-size: 25px;
+  color: #FF5700;
+}
+
+.social-media:first-child {
+  margin-right: 10px;
+  color: #00acee;
+}
+
+
+a {
+  color: #7289da;
+  text-decoration: none;
+}
+
+.text {
+  text-align: center;
+  font-size: 30px;
+  margin: 72px 0;
+}
+
+.blogs {
+  text-align: center;
+  font-size: 24px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.blogs:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.blog-title {
+font-size: 48px;
+color: #DBFB9A;
+}
+
+.blog-detail {
+text-align: center;
+font-size: 18px;
+max-width: 650px;
+width: 100%;
+margin: 0 auto;
+}
+
+.blog-date {
+text-align: left;
+font-size: 12px;
+margin: 12px auto;
+color: var(--color);
+max-width: 650px;
+width: 100%;
+}
